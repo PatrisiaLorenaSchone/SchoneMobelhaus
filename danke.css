@@ -1,0 +1,19 @@
+
+h1{
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-shadow: none;
+}
+p{
+    background-color: rgb(41, 74, 173);
+    color: white;
+}
+.blu{
+    background-color: rgb(41, 74, 173);
+    padding: 50px;
+}
+.telBtn{
+    color:white;
+    background-color: rgb(227, 133, 17);
+}
