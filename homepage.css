@@ -181,13 +181,13 @@ footer h2{
 }
 .contact-info{
     display: flex;
-    align-items: center;
     margin-bottom: 30px;
+    text-align: left;
 }
 .contact-info img{
     height: 50px;
     width: 50px;
-    margin-right: 4%;
+    margin-right: 6%;
 }
 .description{
     display: flex;
